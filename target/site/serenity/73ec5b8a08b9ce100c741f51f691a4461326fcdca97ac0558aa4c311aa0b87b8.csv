@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Service curd info","this will creat service0","SUCCESS","2022-06-07T12:28:59.107+01:00[Europe/London]","0.0","0.06"
+"Service curd info","This will fath single service","SUCCESS","2022-06-07T12:28:59.170+01:00[Europe/London]","0.0","0.0"
+"Service curd info","This will update service","SUCCESS","2022-06-07T12:28:59.173+01:00[Europe/London]","0.0","0.03"
+"Service curd info","This will delete the service","SUCCESS","2022-06-07T12:28:59.207+01:00[Europe/London]","0.0","0.08"
